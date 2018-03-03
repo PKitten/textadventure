@@ -1,5 +1,5 @@
 """Describes the actions a player can make in the game"""
-__author__ = 'Phillip Johnson'
+__author__ = 'Kelsi Jenkins'
 
 from player import Player
 
